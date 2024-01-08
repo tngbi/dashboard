@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import hvplot.pandas  # Import hvPlot
 import openpyxl
+import altair as alt
+
 
 # Assuming the hvplot will work with streamlit which might require additional setup
 
